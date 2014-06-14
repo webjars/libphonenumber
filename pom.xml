@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>libphonenumber</artifactId>
-    <version>0.9.0</version>
+    <version>0.9.1-SNAPSHOT</version>
     <name>libphonenumber</name>
     <description>WebJar for libphonenumber</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/libphonenumber</url>
         <connection>scm:git:https://github.com/webjars/libphonenumber.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/libphonenumber.git</developerConnection>
-        <tag>libphonenumber-0.9.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
